@@ -29,7 +29,7 @@ __Adaptation__ : Après évaluation d'une réalisation ne correspondant pas exac
 
 > Les éléments de ce chapitre sont une traduction/adaptation de l'article [10 key benefits of scrum](http://www.dummies.com/careers/project-management/10-key-benefits-of-scrum/).  
 
-### Meilleur qualité
+### Meilleure qualité
 
 Grâce aux retours en continu et la transparence, la qualité est toujours au plus haut. Voici ce qui est mis en oeuvre pour y arriver :
 
@@ -95,69 +95,49 @@ Scrum améliore le moral du team de plusieurs manières :
 
 ### Collaboration et appropriation accrues
 
-When scrum teams take responsibility for projects and products, they can produce great results. Scrum teams collaborate and take ownership of quality and project performance through the following practices:
+Lorsque le team scrum se responsabilise dans le projet, il peut produire de superbes résultats.
+Le team collabore et s'approprie la qualité et la performance du projet au travers des pratiques suivantes :
 
-    Having the development team, the product owner, and the scrum master work closely together on a daily basis
-
-    Conducting sprint planning meetings, allowing the development team to organize its work around informed business priorities
-
-    Having daily scrum meetings where development team members organize around work completed, future work, and roadblocks
-
-    Conducting sprint reviews, where the product owner outlines his prioritization decisions and the development team can demonstrate and discuss the product directly with stakeholders
-
-    Conducting sprint retrospectives, allowing scrum team members to review past work and recommend better practices with every sprint
-
-    Working in a colocated environment, allowing for instant communication and collaboration among development team members, the product owner, and the scrum master
-
-    Making decisions by consensus
+ - En réunissant le team, le product owner et le scrum master pour travailler ensemble quotidiennement.
+ - En menant les planing de sprint, ce qui permet au team d'organiser son travail autour des priorités commerciales.
+ - En ayant un meeting quotidien lors duquel le team s'organise en fonction du travail fait, à faire et des bloquages.
+ - En menant une revue de sprint lors de laquelle le product owner justifie ses décisions de priorisation et le team peut présenter et débattre du produit directement avec les parties prenantes.
+ - En menant une retrospective de sprint lors de laquelle le team passe en revue le travail effectué et recommande de meilleures pratique à chaque sprint.
+ - En travaillant au même endroit, une communication et collaboration instantanée est établie au sein du team et avec le product owner et le scrum master.
+ - En prenant des décisions ensemble, par consensus.
 
 ### Mesures plus pertinentes
 
 The metrics that scrum teams use to estimate time and cost, measure project performance, and make project decisions are often more relevant and more accurate than metrics on traditional projects. On scrum projects, metrics are more relevant because
 
-    Those who will be doing the work, and no one else, provide effort estimates for project requirements.
-
-    Timelines and budgets are based on each development team’s actual performance and capabilities.
-
-    Using relative estimates, rather than hours or days, tailors estimated effort to an individual development team’s knowledge and capabilities.
-
-    In less than one minute a day, developers can update the burn-down chart, providing daily visibility of how the development team is progressing toward a sprint goal.
-
-    At the end of every sprint, a product owner can compare the project’s actual cost (AC) plus the opportunity cost of future projects (OC) against the value that the current project is returning (V) to know when to terminate a project and begin a new one. You don’t need to wait until the end of a project to know what its value is.
+ - Those who will be doing the work, and no one else, provide effort estimates for project requirements.
+ - Timelines and budgets are based on each development team’s actual performance and capabilities.
+ - Using relative estimates, rather than hours or days, tailors estimated effort to an individual development team’s knowledge and capabilities.
+ - In less than one minute a day, developers can update the burn-down chart, providing daily visibility of how the development team is progressing toward a sprint goal.
+ - At the end of every sprint, a product owner can compare the project’s actual cost (AC) plus the opportunity cost of future projects (OC) against the value that the current project is returning (V) to know when to terminate a project and begin a new one. You don’t need to wait until the end of a project to know what its value is.
 
 ### Visibilité et exposition de la progression accrue
 
 On scrum projects, every member of the project team (which includes the scrum team and stakeholders) has the opportunity to know how the project is going at any given time. Transparency and visibility make scrum an exposure model to help the project team accurately identify issues and more accurately predict how things will go as the project progresses. Scrum projects can provide a high level of progress visibility by
 
-    Placing a high value on open, honest communication among the scrum team, stakeholders, customers, and anyone else within an organization who wants to know about a project.
-
-    Daily scrums that provide daily insight into the development team’s immediate progress and roadblocks.
-
-    Daily scrums around task boards enable developers to self-organize and identify the highest-priority tasks for the day.
-
-    Using the information from daily scrum meetings, sprint burn-down charts, and task boards allows the project team to track progress for individual sprints.
-
-    Sprint retrospectives allow scrum team members to identify what’s working well and what’s not to make action plans for improvement.
-
-    Demonstrating accomplishments in sprint reviews. Anyone within an organization may attend a sprint review, even members of other scrum teams.
+ - Placing a high value on open, honest communication among the scrum team, stakeholders, customers, and anyone else within an organization who wants to know about a project.
+ - Daily scrums that provide daily insight into the development team’s immediate progress and roadblocks.
+ - Daily scrums around task boards enable developers to self-organize and identify the highest-priority tasks for the day.
+ - Using the information from daily scrum meetings, sprint burn-down charts, and task boards allows the project team to track progress for individual sprints.
+ - Sprint retrospectives allow scrum team members to identify what’s working well and what’s not to make action plans for improvement.
+ - Demonstrating accomplishments in sprint reviews. Anyone within an organization may attend a sprint review, even members of other scrum teams.
 
 ### Contrôle du projet accru
 
 Scrum teams have numerous opportunities to control project performance and make corrections as needed because of the following practices:
 
-    Adjusting priorities throughout the project at each sprint interval rather than at major milestones allows the organization to have fixed-time and fixed-price projects while accommodating change.
-
-    Embracing change allows the project team to react to outside factors like market demand.
-
-    Daily scrum coordination allows the scrum team to quickly address issues as they arise, and swarm together to get requirements to done.
-
-    Daily updates to sprint backlogs mean that sprint burn-down charts accurately reflect sprint progress, giving the scrum team the opportunity to make changes the moment it sees problems.
-
-    Face-to-face conversations remove roadblocks to communication and issue resolution.
-
-    Sprint reviews let project stakeholders see working products and provide product owners the feedback they need to ensure that the project stays on track.
-
-    Sprint retrospectives enable the scrum team to make informed course adjustments at the end of every sprint to enhance product quality, increase development team performance, and refine project processes.
+ - Adjusting priorities throughout the project at each sprint interval rather than at major milestones allows the organization to have fixed-time and fixed-price projects while accommodating change.
+ - Embracing change allows the project team to react to outside factors like market demand.
+ - Daily scrum coordination allows the scrum team to quickly address issues as they arise, and swarm together to get requirements to done.
+ - Daily updates to sprint backlogs mean that sprint burn-down charts accurately reflect sprint progress, giving the scrum team the opportunity to make changes the moment it sees problems.
+ - Face-to-face conversations remove roadblocks to communication and issue resolution.
+ - Sprint reviews let project stakeholders see working products and provide product owners the feedback they need to ensure that the project stays on track.
+ - Sprint retrospectives enable the scrum team to make informed course adjustments at the end of every sprint to enhance product quality, increase development team performance, and refine project processes.
 
 The many opportunities to inspect and adapt throughout scrum projects allow all members of the project team — the development team, product owner, scrum master, and stakeholders — to exercise control and ultimately create better products.
 
@@ -165,16 +145,11 @@ The many opportunities to inspect and adapt throughout scrum projects allow all 
 
 Scrum helps mitigate the risk of absolute project failure — spending large amounts of time and money with no return on investment — by delivering tangible product early and forcing scrum teams to fail early if they’re going to fail at all through the following practices:
 
-    Having the highest-risk items done first provides the longest runway to work through issues or fail early and inexpensively.
-
-    Developing in sprints, ensuring a short time between initial project investment and either failing fast or validating that a product or an approach will work.
-
-    Having a working product increment starting with the very first sprint, so that even if a project gets terminated, the highest-value and risk requirements have been developed and could be delivered to the customer if desired.
-
-    Developing requirements to the definition of done in each sprint so that project sponsors have completed, usable features, regardless of what may happen with the project in the future.
-
-    Providing constant feedback on products and processes.
-
+ - Having the highest-risk items done first provides the longest runway to work through issues or fail early and inexpensively.
+ - Developing in sprints, ensuring a short time between initial project investment and either failing fast or validating that a product or an approach will work.
+ - Having a working product increment starting with the very first sprint, so that even if a project gets terminated, the highest-value and risk requirements have been developed and could be delivered to the customer if desired.
+ - Developing requirements to the definition of done in each sprint so that project sponsors have completed, usable features, regardless of what may happen with the project in the future.
+ - Providing constant feedback on products and processes.
 
 ## Définitions
 
