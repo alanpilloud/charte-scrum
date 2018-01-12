@@ -108,24 +108,29 @@ Le team collabore et s'approprie la qualité et la performance du projet au trav
 
 ### Mesures plus pertinentes
 
-The metrics that scrum teams use to estimate time and cost, measure project performance, and make project decisions are often more relevant and more accurate than metrics on traditional projects. On scrum projects, metrics are more relevant because
+Les mesures que le team utilise pour estimer le temps et les coûts,  mesurer les performances et prendre des décisions sont souvent plus pertinentes et précises que les mesures des projet traditionnels.
 
- - Those who will be doing the work, and no one else, provide effort estimates for project requirements.
- - Timelines and budgets are based on each development team’s actual performance and capabilities.
- - Using relative estimates, rather than hours or days, tailors estimated effort to an individual development team’s knowledge and capabilities.
- - In less than one minute a day, developers can update the burn-down chart, providing daily visibility of how the development team is progressing toward a sprint goal.
- - At the end of every sprint, a product owner can compare the project’s actual cost (AC) plus the opportunity cost of future projects (OC) against the value that the current project is returning (V) to know when to terminate a project and begin a new one. You don’t need to wait until the end of a project to know what its value is.
+Dans les projets scrum, les mesures sont plus pertinentes pour les raisons suivantes :
+ 
+ - ceux qui font le travail estiment l'effort requis pour chaque exigence du projet - personne d'autre.
+ - La vélocité et le budget sont basé sur les performances et capacités actuelles du team.
+ - En utilisant des estimations relatives, plutôt qu'en heures ou jours, les estimations d'effort du team prennent forment en s'articulant autour de sa propre vélocité.
+ - En moins d'une minute par jour, les membres du team peuvent mettre à jour le graphique de burn-down qui fournit la visibilité de l'avancement du sprint.
+ - A la fin de chaque sprint, le product owner peut comparer le coût actuel du projet et le coût d'opportunité des projets futurs avec la valeur actuelle du projet. Cela permet de savoir quand terminer un projet.
 
 ### Visibilité et exposition de la progression accrue
 
-On scrum projects, every member of the project team (which includes the scrum team and stakeholders) has the opportunity to know how the project is going at any given time. Transparency and visibility make scrum an exposure model to help the project team accurately identify issues and more accurately predict how things will go as the project progresses. Scrum projects can provide a high level of progress visibility by
+Dans les projets scrum, chaque membre du projet (team, scrum master, product owner et les parties prenantes) ont l'opportunité de connaître l'état du projet à n'importe quel moment.  
+La transparence et la visibilité aident à déterminer les problèmes et prédire précisément comment les choses se déroulent alors que le projet progresse.
 
- - Placing a high value on open, honest communication among the scrum team, stakeholders, customers, and anyone else within an organization who wants to know about a project.
- - Daily scrums that provide daily insight into the development team’s immediate progress and roadblocks.
- - Daily scrums around task boards enable developers to self-organize and identify the highest-priority tasks for the day.
- - Using the information from daily scrum meetings, sprint burn-down charts, and task boards allows the project team to track progress for individual sprints.
- - Sprint retrospectives allow scrum team members to identify what’s working well and what’s not to make action plans for improvement.
- - Demonstrating accomplishments in sprint reviews. Anyone within an organization may attend a sprint review, even members of other scrum teams.
+Les projets scrums peuvent fournir un haut niveau de visibilité sur le progrès de plusieurs manières :
+
+ - En valorisant une communication ouverte et honnête entre tous les acteurs du projet.
+ - Avec les meetings quotidiens qui offrent une visibilité immédiate du progrès du team et des blocages.
+ - Les meetings quotidiens autour du tableau de tâches permettent au team de s'autogérer et identifier les tâches prioritaires du jour.
+ - En utilisant les informations du meeting quotidien, les graphiques de burn-down du sprint et du tableau de tâches, le team suit le progrès de chaque sprint.
+ - Les retrospectives de sprint permetteent au team d'identifier les processus fonctionnels et ceux qui ne fonctionnent pas pour établir un plan d'action pour une amélioration future.
+ - Présenter les accomplissements lors des revues de sprint. Chacun dans l'organisation peut participer à une revue de sprint.
 
 ### Contrôle du projet accru
 
@@ -151,11 +156,9 @@ Scrum helps mitigate the risk of absolute project failure — spending large amo
  - Developing requirements to the definition of done in each sprint so that project sponsors have completed, usable features, regardless of what may happen with the project in the future.
  - Providing constant feedback on products and processes.
 
-## Définitions
-
 ## Promesses
 
-La charte est constituée de promesses qui lorsqu'elles sont tenus maximisent les chances d'obtenir le meilleur de Scrum.
+La charte est constituée de promesses qui lorsqu'elles sont tenues maximisent les chances d'obtenir le meilleur de Scrum.
 Même avec les meilleures intentions, les promesses peuvent parfois être brisées.
 L'important étant que tout soit mis en oeuvre pour rétablir la promesse.
 
