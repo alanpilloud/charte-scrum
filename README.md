@@ -2,7 +2,7 @@
 
 ## Présentation de Scrum
 
-Scrum un cadre de travail implémentant le [manifeste Agile](http://agilemanifesto.org/iso/fr/manifesto.html) et [les principes Agiles](http://agilemanifesto.org/iso/fr/principles.html).
+Scrum est un cadre de travail implémentant le [manifeste Agile](http://agilemanifesto.org/iso/fr/manifesto.html) et [les principes Agiles](http://agilemanifesto.org/iso/fr/principles.html).
 
 Trois rôles sont définis :
 
@@ -50,57 +50,50 @@ Il est prouvé que Scrum fournit la valeur au client final 30 à 40% plus rapide
 
 Increased return on investment
 
-The decrease in time to market is one key reason that scrum projects realize a higher return on investment (ROI). Because revenue and other targeted benefits start coming in sooner, earlier accumulation means higher total return over time. This is a basic tenet of net present value (NPV) calculations. In addition to time-to-market benefits, ROI with scrum also increases by
+### Retour sur investissement (ROI) accru
 
-    Regular feedback through sprint reviews directly from stakeholders, including customers, enables course corrections early, which is less costly and time-consuming than later in the process.
+Le Time to market diminué est la principale raison pour laquelle les projets scrum réalisent un retour sur investissement accru.  
+Parce que les recettes générées par le produit surviennent plus tôt, le retour sur investissement est plus élevé.
 
-    Fewer costly defects due to automation and up-front testing means less wasted work and faster deployments.
+En plus des bénéfices du Time to market diminué, le retour sur investissement est aussi accru par :
 
-    Reducing costs of failure. If a scrum project is going to fail, it fails earlier and faster than waterfall projects.
+ - les retours réguliers lors des revues de sprint qui permettent d'adapter rapidement, ce qui est moins coûteux et chronophage que de le faire plus tard dans le processus.
+ - moins de bugs coûteux grâce à l'automation et les tests en amont, ce qui signifie que moins de temps de travail et de déploiement est perdu.
+ - la réduction des coûts en cas d'échec. Si le project scrum va vers l'échec, cela est identifié plus tôt et plus rapidement que lors de projets en cascade.
 
-Higher customer satisfaction
+### Plus de satisfaction client
 
-Scrum teams are committed to producing products and services that satisfy customers. Scrum enables happier project sponsors through the following:
+Les équipes scrum sont dévoués à la production de produits et services qui satisfont le client.
 
-    Collaborating with customers as partners and keeping customers involved and engaged throughout projects.
+Scrum satisfait le client en :
 
-    Having a product owner who is an expert on product requirements and customer needs.
+ - collaborant avec les clients tels que des partenaires et en les gardant impliqués et engagés durant les projets.
+ - ayant un product owner qui est un expert des exigences du produit et des besoins du client.
+ - gardant la liste des exigences à jour et priorisée de manière à s'adapter rapidement aux changements.
+ - présentant des fonctionnalités tangibles aux parties prenantes et clients lors de chaque revue de sprint.
+ - fournissant le produit aux clients finaux plus rapidement et plus souvent lors de chaque livraison plutôt qu'en toute fin de projet.
+ - finançant le projet de manière incrémentale plutôt que par de gros montants d'avance. 
 
-    Keeping the product backlog updated and prioritized to respond quickly to change.
+### Moral du team accru
 
-    Demonstrating working functionality to internal stakeholders and customers in every sprint review.
+Travailler avec des gens heureux qui prennent plaisir dans leur travail est vraiment satisfaisant.
+L'autogestion met entre les mains du team les décisions qui sont normalement prises par un manager.
 
-    Delivering product to end customers faster and more often with every release rather than all at once at the very end.
+Scrum améliore le moral du team de plusieurs manières :
 
-    Incrementally funding projects instead of requiring large up-front commitments.
+ - faire partie d'un team autogeré permet aux gens d'être créatifs, innovant et reconnus pour leur expertise.
+ - le team peut organiser sa structure en incluant des personnes apportant leur façons de travailler et leur personnalités.
+ - les membre du team scrum peuvent trouver un équilibre entre leur vie privée et professionnelles.
+ - en ayant une relation de pair à pair avec le product owner au sein de l'équipe aligne les priorités techniques et commerciales et abat les barrières manageriales.
+ - en ayant un scrum master qui débloque les situations et protège le team des interférences externes.
+ - se concentrer sur des pratiques de travail durables et de cadence assure que le team ne souffre pas de stress ou de surcharge de travail.
+ - les membres du team acquièrent de nouvelles compétences et les consolident grâce à la pluridisciplinarité du team.
+ - en encourageant une approche "apprenti - mentor", le team s'accomplit dans l'autogestion tout en évitant les méthodes du type "commander et contrôler".
+ - dans un environnement d'entre-aide et de confiance, le moral et la motivation du team sont accrus.
+ - avoir des conversations face à face réduit la frustration des mauvaises communications.
+ - le team se met d'accord sur les règles régissant leur travail afin que les tâches soient réalisées.
 
-Higher team morale
-
-Working with happy people who enjoy their jobs can be satisfying and rewarding. Self-management puts decisions that would normally be made by a manager or the organization into scrum team members’ hands. Scrum improves the morale of team members in these ways:
-
-    Being part of a self-managing and self-organizing team allows people to be creative, innovative, and acknowledged for their expertise.
-
-    Development teams may organize their team structure around people with specific work styles and personalities.
-
-    Scrum teams can make decisions tailored to provide balance between team members’ professional and personal lives.
-
-    Having a peer relationship with a business representative (product owner) on the same team aligns technical and business priorities and breaks down organizational barriers.
-
-    Having a scrum master, who serves the scrum team, removes impediments and shields the development team from external interferences.
-
-    Focusing on sustainable work practices and cadence ensures that people don’t burn out from stress or overwork.
-
-    Working cross-functionally allows development team members to learn new skills and to grow by teaching others.
-
-    Encouraging a servant-leader approach assists scrum teams in self-management and actively avoiding command-and-control methods.
-
-    Providing an environment of support and trust increases people’s overall motivation and morale.
-
-    Having face-to-face conversations helps reduce the frustration of miscommunication.
-
-    Ultimately, scrum teams can agree on rules about how they work to get the job done.
-
-Increased collaboration and ownership
+### Collaboration et appropriation accrues
 
 When scrum teams take responsibility for projects and products, they can produce great results. Scrum teams collaborate and take ownership of quality and project performance through the following practices:
 
@@ -118,7 +111,7 @@ When scrum teams take responsibility for projects and products, they can produce
 
     Making decisions by consensus
 
-More relevant metrics
+### Mesures plus pertinentes
 
 The metrics that scrum teams use to estimate time and cost, measure project performance, and make project decisions are often more relevant and more accurate than metrics on traditional projects. On scrum projects, metrics are more relevant because
 
@@ -132,7 +125,7 @@ The metrics that scrum teams use to estimate time and cost, measure project perf
 
     At the end of every sprint, a product owner can compare the project’s actual cost (AC) plus the opportunity cost of future projects (OC) against the value that the current project is returning (V) to know when to terminate a project and begin a new one. You don’t need to wait until the end of a project to know what its value is.
 
-Improved progress visibility and exposure
+### Visibilité et exposition de la progression accrue
 
 On scrum projects, every member of the project team (which includes the scrum team and stakeholders) has the opportunity to know how the project is going at any given time. Transparency and visibility make scrum an exposure model to help the project team accurately identify issues and more accurately predict how things will go as the project progresses. Scrum projects can provide a high level of progress visibility by
 
@@ -148,7 +141,7 @@ On scrum projects, every member of the project team (which includes the scrum te
 
     Demonstrating accomplishments in sprint reviews. Anyone within an organization may attend a sprint review, even members of other scrum teams.
 
-Increased project control
+### Contrôle du projet accru
 
 Scrum teams have numerous opportunities to control project performance and make corrections as needed because of the following practices:
 
@@ -167,7 +160,8 @@ Scrum teams have numerous opportunities to control project performance and make 
     Sprint retrospectives enable the scrum team to make informed course adjustments at the end of every sprint to enhance product quality, increase development team performance, and refine project processes.
 
 The many opportunities to inspect and adapt throughout scrum projects allow all members of the project team — the development team, product owner, scrum master, and stakeholders — to exercise control and ultimately create better products.
-Reduced risk
+
+### Risque réduit
 
 Scrum helps mitigate the risk of absolute project failure — spending large amounts of time and money with no return on investment — by delivering tangible product early and forcing scrum teams to fail early if they’re going to fail at all through the following practices:
 
