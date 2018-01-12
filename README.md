@@ -2,7 +2,7 @@
 
 ## Présentation de Scrum
 
-Scrum un cadre de travail implémentant le [http://agilemanifesto.org/iso/fr/manifesto.html](manifeste Agile) et [http://agilemanifesto.org/iso/fr/principles.html](les principes Agiles).
+Scrum un cadre de travail implémentant le [manifeste Agile](http://agilemanifesto.org/iso/fr/manifesto.html) et [les principes Agiles](http://agilemanifesto.org/iso/fr/principles.html).
 
 Trois rôles sont définis :
 
@@ -27,7 +27,7 @@ __Adaptation__ : Après évaluation d'une réalisation ne correspondant pas exac
 
 ## Bénéfices de Scrum
 
-> Les éléments de ce chapitre sont une traduction/adaptation de l'article [http://www.dummies.com/careers/project-management/10-key-benefits-of-scrum/](10 key benefits of scrum).  
+> Les éléments de ce chapitre sont une traduction/adaptation de l'article [10 key benefits of scrum](http://www.dummies.com/careers/project-management/10-key-benefits-of-scrum/).  
 
 ### Meilleur qualité
 
