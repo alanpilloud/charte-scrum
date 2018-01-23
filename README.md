@@ -134,27 +134,28 @@ Les projets scrums peuvent fournir un haut niveau de visibilité sur le progrès
 
 ### Contrôle du projet accru
 
-Scrum teams have numerous opportunities to control project performance and make corrections as needed because of the following practices:
+Les équipes scrums ont de nombreuses opportunités de contrôler les performances du projet et d'effectuer les corrections nécessaires grâce aux pratiques suivantes :
 
- - Adjusting priorities throughout the project at each sprint interval rather than at major milestones allows the organization to have fixed-time and fixed-price projects while accommodating change.
- - Embracing change allows the project team to react to outside factors like market demand.
- - Daily scrum coordination allows the scrum team to quickly address issues as they arise, and swarm together to get requirements to done.
- - Daily updates to sprint backlogs mean that sprint burn-down charts accurately reflect sprint progress, giving the scrum team the opportunity to make changes the moment it sees problems.
- - Face-to-face conversations remove roadblocks to communication and issue resolution.
- - Sprint reviews let project stakeholders see working products and provide product owners the feedback they need to ensure that the project stays on track.
- - Sprint retrospectives enable the scrum team to make informed course adjustments at the end of every sprint to enhance product quality, increase development team performance, and refine project processes.
+ - L'ajustement des priorités tout au long du projet à chaque sprint fourni des mesures de temps et de coûts fixes tout en supportant les changements.
+ - L'acception des changements permet à l'équipe scrum de réagir aux facteurs externe, comme les besoins du marché.
+ - Les séances quotidiennes permettent au team scrum de réagir rapidement aux problèmes lorsqu'ils sont détectés et de travailler en équipe pour développer les exigences.
 
-The many opportunities to inspect and adapt throughout scrum projects allow all members of the project team — the development team, product owner, scrum master, and stakeholders — to exercise control and ultimately create better products.
+ - les mises à jours quotidiennes du backlog du sprint implique que les graphiques burn-down reflètent l'avancement du sprint, fournissant à l'équipe scrum l'opportunité d'opérer des changement lorsqu'elle fait face a des problèmes.
+ - les conversations face-à-face suppriment les difficultés de communication et de résolution de problèmes.
+ - les revues de sprint permettent aux parties prenantes de voir des produits fonctionnels et de fournir au product owner le feedback dont il a besoin pour s'assurer que le projet reste sur ses voies.
+ - les retrospectives de sprint permettent au team scrum de prendre des décisions améliorant la qualité du produit, la performance du team et de raffiner les processus du projet.
+
+Ces opportunités d'inspecter et d'adapter le produit tout au long d'un projet scrum permet aux membres du projet d'exercer plein pouvoir sur le projet et créer un meilleur produit.
 
 ### Risque réduit
 
-Scrum helps mitigate the risk of absolute project failure — spending large amounts of time and money with no return on investment — by delivering tangible product early and forcing scrum teams to fail early if they’re going to fail at all through the following practices:
+Scrum aide à réduire le risque d'échec total de projets en livrant un produit tangible rapidement et en forcant le team scrum à reconnaître l'échec grâce aux pratiques suivantes :
 
- - Having the highest-risk items done first provides the longest runway to work through issues or fail early and inexpensively.
- - Developing in sprints, ensuring a short time between initial project investment and either failing fast or validating that a product or an approach will work.
- - Having a working product increment starting with the very first sprint, so that even if a project gets terminated, the highest-value and risk requirements have been developed and could be delivered to the customer if desired.
- - Developing requirements to the definition of done in each sprint so that project sponsors have completed, usable features, regardless of what may happen with the project in the future.
- - Providing constant feedback on products and processes.
+ - Développer les exigences à haut risque en premier fournit le temps maximal à la résolution des problèmes inhérents ou de stopper le projet tôt et à moindre coût.
+ - Développer en courts sprints assure un temps court entre l'investissement initial et l'échec ou l'assurance que le produit fonctionnera.
+ - Obtenir un incrément de produit fonctionnel dès le premier sprint permet de fournir au client un produit même si le projet est en échec.
+ - Développer les exigences en satisfaisant le Definition Of Done à chaque sprint fournit aux investisseurs du projet des fonctionnalités utilisables et complète, peu importe le sort du projet au futur.
+ - Fournir un feedback constant sur le produit et les processus.
 
 ## Promesses
 
@@ -164,7 +165,7 @@ L'important étant que tout soit mis en oeuvre pour rétablir la promesse.
 
 ### Promesses du team
 
-Le team promet aux parties prenantes qu'il y un product owner dans le team qui conduit le team selon les intérets des parties prenantes.
+Le team promet aux parties prenantes qu'il y un product owner dans le team qui conduit le team selon les intérêts des parties prenantes.
 
 Le team promet d'utiliser le temps des parties prenantes avec parcimonie en se focalisant sur les questions qui relèvent du travail en cours.
 
@@ -174,7 +175,7 @@ Le team promet de fournir un produit présentable à la fin de chaque sprint pou
 
 L'organisation promet au team qu'il y a des parties prenantes qui apporteront leur aide en cas de besoin.
 
-L'organisation promet qu'elle aide le ScrumMaster à lever les obstacles auxquels fait face le team.
+L'organisation promet qu'elle aide le scrum master à lever les obstacles auxquels fait face le team.
 
 L'organisation promet au team qu'elle ne change pas les priorités et contraintes durant un sprint sans le consentement du team.
 
