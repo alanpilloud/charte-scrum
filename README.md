@@ -46,9 +46,7 @@ Il est prouvé que Scrum fournit la valeur au client final 30 à 40% plus rapide
  - le développement commence plus tôt, les phases de documentation du projet qui peuvent prendre des mois sont évitées grâce au product owner inclus dans l'équipe scrum. Il élabore les exigences "juste à temps" et fourni des clarifications en temps réel au team. 
  - les éléments de haute priorité sont séparés des éléments de plus basse priorité. Fournir de manière incrémentale la valeur au client final implique que les exigences de haute valeur et risque sont fournies avant les exigences de plus basse priorité et risque.  
  Nul besoin d'attendre que le projet soit entièrement terminé avant de mettre le produit sur le marché.
- - Functionality is swarmed to completion each sprint. At the end of every sprint, scrum teams produce working product and service increments that are shippable.
-
-Increased return on investment
+ - Les exigences sont essaimées jusqu'à leur achèvement. A la fin de chaque sprint, l'équipe scrum a produit un incrément fonctionnel livrable.
 
 ### Retour sur investissement (ROI) accru
 
